@@ -5,11 +5,11 @@ import ExploreChallenges from './ExploreChallenges';
 function ChallengesList() {
 
     const reasons = [{
-        imagePath:'/assets/icons/carbon_notebook-reference.svg',
+        imagePath:'assets/icons/carbon_notebook-reference.svg',
         title:'Prove your skills',
         description:'Gain substantial experience by solving real-world problems and pit against others to come with innovative solutions.',
     },{
-        imagePath:'/assets/icons/Vector.svg',
+        imagePath:'assets/icons/Vector.svg',
         title:'Learn from community',
         description:'One can look and analyze the solutions submitted by the other Data scientists in the community and learn from them.',
     },{
@@ -38,7 +38,7 @@ function ChallengesList() {
                 </div>
 
                 <div className='hidden xl:block'>
-                    <img src= "//assets/icons/" alt="My Icon" />
+                    <img src= "/assets/icons/PicsArt_04-14-04.42 1.svg" alt="My Icon" />
                 </div>
             </div>
 
